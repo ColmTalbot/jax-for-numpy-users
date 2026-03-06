@@ -1,5 +1,5 @@
 # jax-for-numpy-users
-Materials for "Effortless Hardware Acceleration and More with JAX", a workshop given on behalf of Princeton University Research Computing in March 2026
+Materials for "Effortless Hardware Acceleration and More with JAX", a workshop given on behalf of Princeton University Research Computing in March 2026.
 
 The material in the notebook and slides relies heavily on the [JAX documentation](https://docs.jax.dev/en/latest/), especially for worked examples.
 
